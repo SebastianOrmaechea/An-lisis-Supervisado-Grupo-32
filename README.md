@@ -1,2 +1,2 @@
-# Analisis-Supervisado-Grupo-32
-Practico de Análisis supervisado para la competencia Kaggle
+# Supervised-Learning-Team - 32
+Supervised learning practical work for the Kaggle competition
